@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MyThread",
+      "request": "launch",
+      "mainClass": "MyThread",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "ThreadExample",
+      "request": "launch",
+      "mainClass": "ThreadExample",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "Counter",
+      "request": "launch",
+      "mainClass": "Counter",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "MainClass",
+      "request": "launch",
+      "mainClass": "MainClass",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "BallApp",
+      "request": "launch",
+      "mainClass": "BallApp",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "ТРСПО_abddd8d1"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Studies/Юника/ТРСПО/lab1",
+      "program": "d:/Studies/Юника/ТРСПО/lab1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
